@@ -1,0 +1,15 @@
+Instructions
+
+1. Create a realtime firebase data base
+2. Import aia file in MIT app inventor
+3. Embed the realtime firebase database link into the mit app inventor firebase element
+4. Export as apk
+5. Install and use
+
+
+
+Arduino part
+1. Load the code
+2. Connect bluetooth and ISD18200 module
+3. Connect from app to arduino and use
+
